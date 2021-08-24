@@ -1,5 +1,5 @@
 ### How to start it?
-Because I uploaded node_modules as well, after git clone you should just type [npm start] inside of the main folder.
+After git clone you should just type [npm install && npm start] inside of the main folder.
 
 ### Why this repository exist?
 Only because I wanted to save for myself this code. It is public because why wouldn't other people use it?
